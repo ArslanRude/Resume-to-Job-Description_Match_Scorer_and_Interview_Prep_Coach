@@ -1,0 +1,2 @@
+# Resume-to-Job-Description_Match_Scorer_and_Interview_Prep_Coach
+what="A LangChain application that ingests a user's resume (PDF or DOCX) and a target job description (pasted text or URL), then produces a structured match score with a per-category breakdown (skills, experience, education, keywords), highlights gaps, and generates tailored interview prep questions and talking points. It turns the tedious, subject
